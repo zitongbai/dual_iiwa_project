@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/config/base_frame.yaml
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/config/dual_iiwa.urdf.xacro
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/config/dual_iiwa_controllers.yaml
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/config/left_initial_positions.yaml
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/config/right_initial_positions.yaml
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/gazebo/iiwa.gazebo.xacro
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/gazebo/worlds/empty.world
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/rviz/dual_iiwa.rviz
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/ament_index/resource_index/package_run_dependencies/dual_iiwa_description
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/ament_index/resource_index/parent_prefix_path/dual_iiwa_description
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/environment/path.sh
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/environment/path.dsv
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/local_setup.bash
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/local_setup.sh
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/local_setup.zsh
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/local_setup.dsv
+-- Symlinking: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/package.dsv
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/ament_index/resource_index/packages/dual_iiwa_description
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/cmake/dual_iiwa_descriptionConfig.cmake
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/cmake/dual_iiwa_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/xiaobaige/dual_iiwa_project/install/dual_iiwa_description/share/dual_iiwa_description/package.xml

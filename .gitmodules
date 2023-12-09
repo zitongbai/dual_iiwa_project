@@ -1,0 +1,6 @@
+[submodule "src/dual_iiwa_ros2"]
+	path = src/dual_iiwa_ros2
+	url = git@github.com:zitongbai/dual_iiwa_ros2.git
+[submodule "src/libs/iiwa_ros2"]
+	path = src/libs/iiwa_ros2
+	url = git@github.com:zitongbai/iiwa_ros2.git
